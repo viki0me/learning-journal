@@ -1,19 +1,17 @@
-# learning-journal
-my computer science and cybersecurity learning journey!
+## hi, i'm viki.
 
-## hi, i'm ana.
-
-i’m a student building a foundation in computer science and security.  
+i’m an A level year 12 student building a foundation in computer science and cybersecurity.  
 i like systems that work quietly, code that reads like a clear thought,  
 and solving problems from first principles.
 
 **current focus:**  
-- finishing harvard’s cs50  
-- learning security through tryhackme & overthewire  
-- solving project euler problems slowly  
-- studying mandarin and math
+- finishing Harvard’s CS50 course
+- learning security through TryHackMe & OverTheWire  
+- solving Project Euler problems 1-50 
+- studying A level math, further math, physics & computer science
+- learning chinese HSK5
 
-**toolbox:** python, c, linux, git, obsidian.
+**toolbox:** python, c, linux, git, notion.
 
 **sometimes i:**  
 - draw in the margins of my notes  
@@ -24,10 +22,8 @@ and solving problems from first principles.
 
 ### selected projects
 → [learning journal](https://github.com/username/learning-journal) – ongoing notes & solutions  
-→ [port scanner](https://github.com/username/port-scanner) – clean tcp syn implementation  
-→ [euler solutions](https://github.com/username/euler) – code with mathematical notes
 
 ### contact
-i’m best reached via [email](mailto:hello@example.com) or on [twitter](https://twitter.com).
+i’m best reached via [email](mailto:viki0mee@gmail.com) or on [instagram](https://www.instagram.com/vi0me).
 
-📫 open to interesting conversations & collaboration.
+🎧 open to interesting conversations & collaboration :)
