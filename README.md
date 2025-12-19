@@ -17,7 +17,7 @@ i’m an A level year 12 student building a foundation in computer science and c
 ---
 
 ### selected projects
-→ [learning journal](https://github.com/username/learning-journal) – ongoing notes & solutions  
+→ [learning journal](https://github.com/viki0me/learning-journal) – ongoing notes & solutions  
 → [project euler](https://github.com/viki0me/project-euler) - my solutions & explainations to project euler problems 1-1
 
 ### contact
